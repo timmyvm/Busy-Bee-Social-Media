@@ -44,9 +44,9 @@ export default function Widgets() {
             <EllipsisHorizontalIcon className="w-[20px]" />
           </div>
 
-          <span className="font-bold text-sm">#ReactJS</span>
+          <span className="font-bold text-sm">#JobMarketIsBadRn</span>
 
-          <span className="text-[#536471] text-xs">240k Bumbles</span>
+          <span className="text-[#536471] text-xs">359k Bumbles</span>
         </div>
         <div className="flex flex-col py-3 space-y-0.5">
           <div className="flex justify-between text-[#536471] text-[13px]">
@@ -54,9 +54,9 @@ export default function Widgets() {
             <EllipsisHorizontalIcon className="w-[20px]" />
           </div>
 
-          <span className="font-bold text-sm">#ReactJS</span>
+          <span className="font-bold text-sm">#HousingCrisis</span>
 
-          <span className="text-[#536471] text-xs">240k Bumbles</span>
+          <span className="text-[#536471] text-xs">546k Bumbles</span>
         </div>
         <div className="flex flex-col py-3 space-y-0.5">
           <div className="flex justify-between text-[#536471] text-[13px]">
@@ -64,9 +64,9 @@ export default function Widgets() {
             <EllipsisHorizontalIcon className="w-[20px]" />
           </div>
 
-          <span className="font-bold text-sm">#ReactJS</span>
+          <span className="font-bold text-sm">#WhenWillIBeAbleToAffordAHome</span>
 
-          <span className="text-[#536471] text-xs">240k Bumbles</span>
+          <span className="text-[#536471] text-xs">739k Bumbles</span>
         </div>
       </div>
 
@@ -75,18 +75,18 @@ export default function Widgets() {
         <div className="flex justify-between items-center py-3">
           <div className="flex items-center space-x-3">
             <Image
-              src={"/assets/iman.jpg"}
+              src={"/assets/tim.jpg"}
               width={56}
               height={56}
-              alt="Profile Picture of Iman Musa"
+              alt="Profile Picture of Timothy Mota"
               className="w-14 h-14
            rounded-full
            "
             />
 
             <div className="flex flex-col text-sm">
-              <span className="font-bold">Iman Musa</span>
-              <span>@imancodes</span>
+              <span className="font-bold">Timothy Mota</span>
+              <span>@TimothyMota</span>
             </div>
           </div>
 
@@ -101,18 +101,18 @@ export default function Widgets() {
         <div className="flex justify-between items-center py-3">
           <div className="flex items-center space-x-3">
             <Image
-              src={"/assets/iman.jpg"}
+              src={"/assets/tim.jpg"}
               width={56}
               height={56}
-              alt="Profile Picture of Iman Musa"
+              alt="Profile Picture of Timothy Mota"
               className="w-14 h-14
            rounded-full
            "
             />
 
             <div className="flex flex-col text-sm">
-              <span className="font-bold">Iman Musa</span>
-              <span>@imancodes</span>
+              <span className="font-bold">Timothy Mota</span>
+              <span>@TimothyMota</span>
             </div>
           </div>
 
@@ -127,18 +127,18 @@ export default function Widgets() {
         <div className="flex justify-between items-center py-3">
           <div className="flex items-center space-x-3">
             <Image
-              src={"/assets/iman.jpg"}
+              src={"/assets/tim.jpg"}
               width={56}
               height={56}
-              alt="Profile Picture of Iman Musa"
+              alt="Profile Picture of Timothy Mota"
               className="w-14 h-14
            rounded-full
            "
             />
 
             <div className="flex flex-col text-sm">
-              <span className="font-bold">Iman Musa</span>
-              <span>@imancodes</span>
+              <span className="font-bold">Timothy Mota</span>
+              <span>@TimothyMota</span>
             </div>
           </div>
 
