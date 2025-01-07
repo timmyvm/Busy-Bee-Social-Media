@@ -46,13 +46,18 @@ export default function SignUpModal() {
     );
   }
 
-  async function handleGuestLogIn() {
-    await signInWithEmailAndPassword(
-      auth,
-      "guest12345000@gmail.com",
-      "12345678"
-    );
+  async function handleGuestLogIn() {    
+      const userCredentials = await signInWithEmailAndPassword(
+        auth,
+        "guest12345000@gmail.com",
+        "12345678"
+      );
+      const name = "Guest User";
+      await updateProfile(userCredentials.user, {
+        displayName: name,
+      });
   }
+  
 
   useEffect(() => {
     const unsubscribe = onAuthStateChanged(auth, (currentUser) => {
