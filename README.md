@@ -1,6 +1,6 @@
 # Busy Bee - Social Media App
 
-<img width="1440" alt="Social Media App Image" src="https://i.postimg.cc/FFdjb8gC/image.png">
+<img width="1440" src='https://i.postimg.cc/MX64hnxZ/image.png' border='0' alt='image'/>
 
 Developed a full-stack social media app with features like posts, post feeds, likes, modals, and authentication, using Firebase for database management.
 
